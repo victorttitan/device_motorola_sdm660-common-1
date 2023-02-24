@@ -553,8 +553,6 @@
             <instance>default</instance>
         </interface>
     </hal>
-<<<<<<< HEAD
-=======
     <hal format="hidl">
         <name>motorola.hardware.health</name>
         <transport>hwbinder</transport>
@@ -564,5 +562,4 @@
             <instance>default</instance>
         </interface>
     </hal>
->>>>>>> 573a19ccc (sdm632-common: Drop soundtrigger HAL)
 </manifest>
